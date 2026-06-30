@@ -1,7 +1,7 @@
 package maxmind
 
 import (
-	"github.com/Loyalsoldier/geoip/lib"
+	"github.com/unarto/geoip/lib"
 )
 
 type geoLite2CountryMMDBIn struct {

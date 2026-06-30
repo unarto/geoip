@@ -8,7 +8,7 @@ import (
 	"slices"
 	"strings"
 
-	"github.com/Loyalsoldier/geoip/lib"
+	"github.com/unarto/geoip/lib"
 )
 
 const (

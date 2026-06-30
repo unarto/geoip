@@ -11,7 +11,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/Loyalsoldier/geoip/lib"
+	"github.com/unarto/geoip/lib"
 	"github.com/sagernet/sing-box/common/srs"
 )
 

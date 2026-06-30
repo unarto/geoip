@@ -11,7 +11,7 @@ import (
 
 	"log"
 
-	"github.com/Loyalsoldier/geoip/lib"
+	"github.com/unarto/geoip/lib"
 	"google.golang.org/protobuf/proto"
 )
 

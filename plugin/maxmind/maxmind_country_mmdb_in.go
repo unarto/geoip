@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/Loyalsoldier/geoip/lib"
+	"github.com/unarto/geoip/lib"
 	"github.com/oschwald/geoip2-golang/v2"
 	"github.com/oschwald/maxminddb-golang/v2"
 )

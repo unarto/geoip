@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Loyalsoldier/geoip/lib"
+	"github.com/unarto/geoip/lib"
 	"github.com/spf13/cobra"
 )
 

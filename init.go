@@ -1,10 +1,10 @@
 package main
 
 import (
-	_ "github.com/Loyalsoldier/geoip/plugin/maxmind"
-	_ "github.com/Loyalsoldier/geoip/plugin/mihomo"
-	_ "github.com/Loyalsoldier/geoip/plugin/plaintext"
-	_ "github.com/Loyalsoldier/geoip/plugin/singbox"
-	_ "github.com/Loyalsoldier/geoip/plugin/special"
-	_ "github.com/Loyalsoldier/geoip/plugin/v2ray"
+	_ "github.com/unarto/geoip/plugin/maxmind"
+	_ "github.com/unarto/geoip/plugin/mihomo"
+	_ "github.com/unarto/geoip/plugin/plaintext"
+	_ "github.com/unarto/geoip/plugin/singbox"
+	_ "github.com/unarto/geoip/plugin/special"
+	_ "github.com/unarto/geoip/plugin/v2ray"
 )
